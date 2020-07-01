@@ -24,6 +24,7 @@ API Features:
 
 * Source selection (Currently only supports newsapi)
 * Query support
+* Error Reporting
 
 Examples:
 
@@ -45,6 +46,7 @@ Response:
       "link": "http://us.cnn.com/videos/politics/2020/07/01/intelligence-russia-bounty-veteran-rieckhoff-cuomo-cpt-intv-vpx.cnn",
       "headline": "Veteran: Every day Donald Trump is in power, our enemies celebrate - CNN Video"
     }
-  ]
+  ],
+  "errors": []
 }
 ```
